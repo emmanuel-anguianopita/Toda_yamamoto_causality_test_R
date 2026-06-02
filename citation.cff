@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it."
+title: "toda.yamamoto: Toda & Yamamoto (1995) Granger Causality Test in R"
+authors:
+  - family-names: Anguiano Pita
+    given-names: Javier Emmanuel
+    orcid: https://orcid.org/0000-0002-3902-534X
+version: 1.0.0
+date-released: 2025-06-02
+url: https://github.com/emmanuel-anguianopita/Toda_yamamoto_causality_test_R
+references:
+  - type: article
+    authors:
+      - family-names: Toda
+        given-names: Hiro Y.
+      - family-names: Yamamoto
+        given-names: Taku
+
+    title: "Statistical inference in vector autoregressions with possibly integrated processes"
+    journal: Journal of Econometrics
+    year: 1995
+    doi: https://doi.org/10.1016/0304-4076(94)01616-8
