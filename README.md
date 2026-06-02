@@ -1,4 +1,5 @@
 # Toda & Yamamoto (1995) Causality Test in R
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.20517154-blue)](https://doi.org/10.5281/zenodo.20517154)
 
 A simple R implementation of the modified Wald test for Granger non-causality in possibly integrated or cointegrated VAR systems following Toda & Yamamoto (1995).
 
