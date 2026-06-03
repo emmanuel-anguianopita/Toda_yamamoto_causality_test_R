@@ -18,7 +18,7 @@ Toda, H. Y., & Yamamoto, T. (1995). Statistical inference in vector autoregressi
 install.packages(c("vars", "aod"))
 
 # Load the function
-source("toda_yamamoto.R")
+source("toda.yamamoto.R")
 ```
 
 ## Usage
